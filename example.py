@@ -1,5 +1,1 @@
 print("Hello from Yana")
-
-
-
-
