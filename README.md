@@ -1,6 +1,6 @@
 # PythonHello
 
-This is the demo project using **Python**. Can you do `m = 50`?
+This is the demo project using **Python**. Can you do `m = 40`?
 You can always [Google](https://www.google.com/) it!
 
 ```
