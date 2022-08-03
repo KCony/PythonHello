@@ -1,1 +1,2 @@
-print("Hello from Konstantin Kuzmin")
+print("Wake up, Dmitry Petrov..")
+
