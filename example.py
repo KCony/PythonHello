@@ -1,2 +1,1 @@
-
-print("Hello from Python, I try to code")
+print("Bye from Python, I try to code")
